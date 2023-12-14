@@ -1,4 +1,4 @@
-<h2>Hi I am Papunjay Kunar 😊</h2>
+<h2 align="center">Hi I am Papunjay Kunar 😊</h2>
 
 <!--
 **Papunjaykumar/Papunjaykumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
