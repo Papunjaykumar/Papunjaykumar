@@ -7,12 +7,12 @@ I am a results-driven software engineer with **1.5+ years of experience** buildi
 ---
 
 ## 🚀 About Me
-- 🌟 Passionate about **Full-Stack Development (MERN + Java Spring Boot)**  
-- 🤖 Skilled in **Generative AI, RAG, LangChain, LangGraph**  
-- 🏢 Currently working at **LTIMindtree** as a Software Engineer (Full-Stack Developer)  
-- 📊 Experienced with **SAP CAPM, Fiori, Clean Core, SAP HANA** for enterprise-grade apps  
-- 🛠️ Love solving complex problems and optimizing system performance  
-- 📍 Based in **Noida, India**  
+-  Passionate about **Full-Stack Development (MERN + Java Spring Boot)**  
+-  Skilled in **Generative AI, RAG, LangChain, LangGraph**  
+-  Currently working at **LTIMindtree** as a Software Engineer (Full-Stack Developer)  
+-  Experienced with **SAP CAPM, Fiori, Clean Core, SAP HANA** for enterprise-grade apps  
+-  Love solving complex problems and optimizing system performance  
+-  Based in **Noida, India**  
 
 ---
 
@@ -53,17 +53,17 @@ I am a results-driven software engineer with **1.5+ years of experience** buildi
 
 ## 📂 Projects  
 
-- 🔐 **Online Voting System** – Built with **Spring Boot & Hibernate**, secure authentication & result analysis.  
-- 📘 **Exam Portal** – Full-stack quiz platform using **Spring Boot + Angular**, with auto-scoring and analytics.  
-- 📊 **SAP Clean Core Dashboard** – Interactive dashboards for real-time SAP HANA insights.  
-- 🤖 **RAG Chatbot** – AI-powered chatbot using **LangChain & Generative AI** on enterprise datasets.  
+-  **Online Voting System** – Built with **Spring Boot & Hibernate**, secure authentication & result analysis.  
+-  **Exam Portal** – Full-stack quiz platform using **Spring Boot + Angular**, with auto-scoring and analytics.  
+-  **SAP Clean Core Dashboard** – Interactive dashboards for real-time SAP HANA insights.  
+-  **RAG Chatbot** – AI-powered chatbot using **LangChain & Generative AI** on enterprise datasets.  
 
 ---
 
 ## 🎓 Education  
 
-- 🎓 **B.Tech, Computer Science Engineering** – Institute of Engineering & Management, Kolkata  
-- 🏆 DGPA: 8.43  
+-  **B.Tech, Computer Science Engineering** – Institute of Engineering & Management, Kolkata  
+-  DGPA: 8.43  
 
 ---
 
@@ -92,5 +92,4 @@ I am a results-driven software engineer with **1.5+ years of experience** buildi
 
 ---
 
-⭐️ *"Code. Learn. Innovate. Repeat."*  
 
